@@ -1,4 +1,4 @@
-# 矢量渲染器VecRender v0.1 （更新维护中，请勿下载）
+# 矢量渲染器VecRender v0.1
 A truly vector-based 3D model renderer, which can output vector images.
 
 作者：impesx
